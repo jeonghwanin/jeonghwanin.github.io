@@ -9,8 +9,7 @@ sidebar:
     nav: "docs"
 search: true
 ---
-
-![Alt text](../assets/images/23-11-23-brute_false_img.jpg)
+![23-11-23-brute_false_img](https://github.com/jeonghwanin/jeonghwanin.github.io/assets/99806622/ea55a28f-290f-4adb-b475-5a3a72b8204e)
 
 ## 1.무식하게 풀기란?
 모든 경우의 수를 계산하여 답을 찾는 방법이다.
