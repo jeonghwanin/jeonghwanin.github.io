@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "무식하게 풀기(brute force)"
-Categories: algorithm 
+categories: algorithm 
 tag: [brute force, recursive, problem, subproblem]
 toc: true
 author_profile: false
